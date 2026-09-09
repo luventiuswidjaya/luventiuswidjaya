@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Undergraduate, class of 2029 at SUTD 
+
 <!--
 **luventiuswidjaya/luventiuswidjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
